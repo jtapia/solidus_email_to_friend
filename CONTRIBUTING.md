@@ -1,6 +1,6 @@
 # Contributing
 
-Spree Email to Friend is an open source project and we encourage contributions. Please see the [contributors guidelines](http://spreecommerce.com/documentation/contributing_to_spree.html) for more information before contributing.
+Solidus Email to Friend is an open source project and we encourage contributions. Please see the [contributors guidelines](http://spreecommerce.com/documentation/contributing_to_spree.html) for more information before contributing.
 
 In the spirit of [free software][1], **everyone** is encouraged to help improve this project.
 
